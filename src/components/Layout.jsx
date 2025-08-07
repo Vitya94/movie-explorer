@@ -2,7 +2,6 @@ import { Link } from 'react-router-dom';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import { CssBaseline } from '@mui/material';
 import { styled } from '@mui/system';
-import movieLogo from '../assets/movie.png';
 
 const darkTheme = createTheme({
     palette: {
