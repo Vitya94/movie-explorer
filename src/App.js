@@ -13,7 +13,7 @@ function App() {
         </Routes>
       </Layout>
     </BrowserRouter>
-  )
+  );
 }
 
 export default App;
